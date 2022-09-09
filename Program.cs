@@ -48,7 +48,7 @@ namespace Practice2
             List<int> lst = new List<int>() { };
             lst.Add(1);
             lst.Add(2);
-
+            lst.Add(3);
            
 
             foreach(var l in lst)
